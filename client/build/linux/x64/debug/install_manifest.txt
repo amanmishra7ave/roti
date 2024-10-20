@@ -1,0 +1,12 @@
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/roti12
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/groot/Documents/roti12/client/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
